@@ -1,0 +1,12 @@
+Revision history for Perl extension Class::Moco.
+
+0.03  Tue Jan 30
+	- added param method to update db
+	- Changed name from Class::TableObject to Clsss::Moco
+	- Changed Class::Moco::Cache API same as Cache.pm
+
+0.02  Tue Jan 30
+	- added param method (not update db yet)
+
+0.01  Mon Jan 29
+	- initial version
